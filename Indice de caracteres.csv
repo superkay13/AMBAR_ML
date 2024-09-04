@@ -1,0 +1,31 @@
+Codigo,Nombre,Estados
+100_A.,Functional sex of flowers (D2d) 2,2
+100_B.,Structural sex of flowers (D2d) 2,2
+102_B.,Ovary position (binary) (D2d) 2,2
+201_A.,Perianth presence (D2c) 2,2
+201_B.,Number of perianth parts (3-state) (D2c) 3,3
+201_C.,Number of perianth parts (binary) (D2c) 2,2
+204_A.,Fusion of perianth (D2c) 2,2
+207_A.,Symmetry of perianth (binary) (D2d) 2,2
+230_A.,Perianth phyllotaxy (binary) (D2d) 2,2
+231_A.,Number of perianth whorls (D2c) 3,3
+232_A.,Perianth merism (4-state) (D2c) 4,4
+232_B.,Perianth merism (3-state) (D2c) 3,3
+234_A.,Perianth differentiation (binary) (D2d) 2,2
+301_B.,Number of fertile stamens (3-state) (D2c) 3,3
+301_C.,Number of fertile stamens (binary) (D2c) 2,2
+305_A.,Filament (binary) (D2d) 2,2
+311_A.,Anther orientation (D2d) 3,3
+312_A.,Anther attachment (binary) (D2d) 2,2
+313_A.,Anther dehiscence (3-state) (D2d) 3,3
+330_A.,Androecium structural phyllotaxy (binary) (D2d) 2,2
+331_A.,Number of androecium structural whorls (3-state) (D2c) 3,3
+332_A.,Androecium structural merism (4-state) (D2c)4,4
+332_B.,Androecium structural merism (3-state) (D2c)3,3
+400_A.,Gynoecium phyllotaxy (D2d) 2,2
+401_B.,Number of structural carpels (5-state) (D2c)5,5
+403_A.,Fusion of ovaries (binary) (D2c) 2,2
+411_A.,Number of ovules per functional carpel (3-state) (D2c) 3,3
+500_A.,Nectarios presence (binary) 2,2
+501_A.,Tipo Nectarios  (binary) 2,2
+502_A.,Posicion Nectario (3-state) 3,3
